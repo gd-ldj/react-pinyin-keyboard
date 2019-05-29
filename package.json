@@ -1,7 +1,7 @@
 {
-  "name": "react-simple-keyboard",
-  "version": "1.22.3",
-  "description": "React.js Virtual Keyboard",
+  "name": "react-pinyin-keyboard",
+  "version": "0.0.1",
+  "description": "React.js Pinyin Virtual Keyboard",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "scripts": {
@@ -14,11 +14,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hodgef/react-simple-keyboard"
+    "url": "https://github.com/gd-ldj/react-pinyin-keyboard.git"
   },
-  "author": "Francisco Hodge <hello@franciscohodge.com> (https://github.com/hodgef)",
+  "author": "gd-ldj <lidejv@163.com> (https://github.com/gd-ldj)",
   "bugs": {
-    "url": "https://github.com/hodgef/react-simple-keyboard/issues"
+    "url": "https://github.com/gd-ldj/react-pinyin-keyboard/issues"
   },
   "homepage": "https://virtual-keyboard.js.org/",
   "keywords": [
